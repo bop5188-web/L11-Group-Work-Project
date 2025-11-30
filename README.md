@@ -96,7 +96,7 @@ Frontend AttendeesManager component
 Testing & documentation
 
 
-Member 2 –
+Dean Shuron –
 
 CRUD endpoints for sessions
 
@@ -105,7 +105,7 @@ Frontend SessionsManager component
 Sample data creation
 
 
-Member 3 –
+Evan Sabile –
 
 Frontend RegistrationManager component
 
@@ -114,7 +114,7 @@ Testing registrations
 Screenshots for submission
 
 
-Member 4 –
+Kevin Glenn –
 
 Server setup & API integration
 
